@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColorWhite">#FFFFFF</color>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <bool name="isLightTheme">true</bool>
+
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="snackbarBackground">#323232</color>
+    <color name="dialogBackground">#FFFFFF</color>
+
+    <!-- color accent from qilindrop website -->
+    <color name="colorAccent">#4285F4</color>
+</resources>

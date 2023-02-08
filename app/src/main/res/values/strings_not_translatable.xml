@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- open source components -->
+    <string name="components_long_text" translatable="false"><big><b><a href="https://github.com/linzxcw/qilindrop">qilindrop.cn Project</a></b></big>
+        \nThe <a href="https://qilindrop.cn">qilindrop.cn</a> Project and <a href="https://github.com/linzxcw/qilindrop/blob/master/public/images/android-chrome-512x512.png">launcher icon</a> by RobinLinus
+        \nLicensed under GPL-3.0 License
+        \n
+        \n<big><b><a href="https://github.com/anggrayudi/SimpleStorage">SimpleStorage</a></b></big>
+        \nCopyright © 2020-2022 Anggrayudi Hardiannicko A.
+        \nLicensed under Apache-2.0 License
+        \n
+        \n<big><b><a href="https://material.io/">Material Design Components</a></b></big>
+        \nLicensed under Apache-2.0 License
+        \n
+        \n<big><b><a href="https://github.com/androidx">AndroidX Support Library</a></b></big>
+        \nLicensed under Apache-2.0 License
+    </string>
+
+    <!-- baseURL -->
+    <string name="baseURL" translatable="false">https://qilindrop.cn/</string>
+</resources>

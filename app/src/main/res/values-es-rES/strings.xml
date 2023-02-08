@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">qilindrop</string>
+    <string name="app_name_long">qilindrop para Android</string>
+    <string name="err_no_browser">No se puede abrir el navegador</string>
+    <string name="err_no_app">No hay ninguna aplicación instalada para abrir este archivo</string>
+    <string name="open_url">Abrir URL</string>
+    <!-- Welcome -->
+    <string name="app_welcome">Bienvenido a qilindrop</string>
+    <string name="app_welcome_summary">1. Abre <a href="https://qilindrop.cn">qilindrop.cn</a> o la aplicación qilindrop en cualquier otro dispositivo de tu red WiFi local.\n2. Pulse en el dispositivo con el que desea compartir los archivos.\n3. ¡Listo! Los archivos se enviarán…</string>
+    <!-- Download -->
+    <string name="download_save_pending">Guardando el archivo. Por favor, tenga un poco de paciencia…</string>
+    <string name="download_successful">Descarga finalizada satisfactoriamente</string>
+    <string name="notification_channel_name">Descarga completada</string>
+    <!-- Action Buttons -->
+    <string name="open">Abrir</string>
+    <string name="reset">reiniciar</string>
+    <string name="copy">copiar</string>
+    <!-- Settings / About -->
+    <string name="title_activity_about">Acerca de qilindrop para Android</string>
+    <string name="license">Licencia</string>
+    <string name="pref_category_settings">Ajustes</string>
+    <string name="source">Código fuente</string>
+    <string name="source_summary">Ver código fuente en GitHub</string>
+    <string name="components">Componentes de código abierto</string>
+    <string name="logs">Registros de depuración</string>
+    <string name="components_summary">Pulsa para mostrar</string>
+    <string name="crowdin">Localización</string>
+    <string name="crowdin_summary">Ayuda a traducir <b>qilindrop para Android</b> a tu idioma favorito</string>
+    <string name="support_us">Apoya a qilindrop</string>
+    <string name="support_us_summary">Mira cómo puedes apoyar a la comunidad de qilindrop</string>
+    <string name="twitter">Twitter</string>
+    <string name="twitter_summary">Cuéntales sobre <b>qilindrop para Android</b></string>
+    <string name="version">Versión</string>
+    <string name="pref_device_name_title">Nombre del dispositivo</string>
+    <string name="pref_device_name_summary">Establece un nombre de dispositivo definido por el usuario</string>
+    <string name="keep_on_summary">(Recomendado) Muchos dispositivos tienen problemas con las interrupciones de transferencias cuando la pantalla se apaga</string>
+    <string name="keep_on_title">Mantener la pantalla encendida mientras se transfiere</string>
+    <string name="floating_text_selection_title">Selección de texto flotante</string>
+    <string name="floating_text_selection_summary">Al seleccionar texto en otras aplicaciones, se mostrará una opción \"Enviar con qilindrop\"</string>
+    <string name="floating_text_selection_activity_label">Enviar con qilindrop</string>
+    <string name="settings_theme_title">Tema</string>
+    <string-array name="darkmode_entries">
+        <item>Predeterminado del Sistema</item>
+        <item>Claro</item>
+        <item>Oscuro</item>
+    </string-array>
+    <string name="baseurl_title">URL base</string>
+    <string name="baseurl_no_snapdrop_instance">No parece ser una instancia de qilindrop</string>
+    <string name="baseurl_check_instance_failed">No se pudo verificar la instancia de qilindrop</string>
+    <string name="save_location">Guardar ubicación</string>
+    <!-- File sharing -->
+    <string name="intent_file">Se ha seleccionado un archivo para compartir</string>
+    <string name="intent_files">Los archivos están seleccionados para compartir</string>
+    <string name="intent_content">El contenido está seleccionado para compartir</string>
+    <string name="error_filechooser">No se pudo abrir el selector de archivos</string>
+    <string name="error_network">Por favor, compruebe que está conectado a una red WiFi</string>
+    <string name="ignore_error_network">Déjame intentarlo de todos modos</string>
+    <string name="error_not_reachable_title">¡Ups, lo sentimos!</string>
+    <string name="error_not_reachable">No se puede acceder al Servidor de qilindrop. \n\nSi tu conexión a internet está funcionando y esto sucede de todos modos, probablemente tengamos problemas con el servidor actualmente. Sabemos que esto puede ser muy frustrante, pero no dejes malas reseñas en Google Play. \n\nEsta aplicación está completamente libre de anuncios, por lo que no ganamos nada de dinero con ella. Es solo un proyecto de hobby, pero estamos haciendo todo lo que se puede para que vuelva a funcionar rápidamente.</string>
+    <!-- Website Localization -->
+    <string name="website_no_peers_info">Abrir qilindrop en otros dispositivos para enviar archivos</string>
+    <string name="website_instruction">Pulsa para enviar archivos o pulsación larga para enviar un mensaje</string>
+    <string name="website_file_received">Archivo recibido</string>
+    <string name="website_file_ask_before_download">Preguntar siempre antes de guardar un archivo</string>
+    <string name="website_file_download">Guardar</string>
+    <string name="website_footer_discovery">Puedes ser descubierto por todos en esta red</string>
+    <string name="website_footer_known_as">Usted es conocido como %s</string>
+    <string name="website_about_subheading">La manera más fácil de transferir archivos a través de dispositivos</string>
+</resources>

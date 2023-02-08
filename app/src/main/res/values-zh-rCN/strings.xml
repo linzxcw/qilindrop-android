@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">麒麟传送</string>
+    <string name="app_name_long">麒麟传送 安卓版</string>
+    <string name="err_no_browser">无法打开浏览器</string>
+    <string name="err_no_app">未找到用于打开此文件的应用</string>
+    <string name="open_url">打开网址</string>
+    <!-- Welcome -->
+    <string name="app_welcome">欢迎使用 麒麟传送</string>
+    <string name="app_welcome_summary">1. 在您的WiFi局域网络中的任意设备上打开 <a href="https://qilindrop.cn">qilindrop.cn</a> 或 麒麟传送 应用。\n 2. 轻按您想要与之共享文件的设备。\n 3. 好了！文件将立即被发送…</string>
+    <!-- Download -->
+    <string name="download_save_pending">存储文件。请稍等…</string>
+    <string name="download_successful">下载成功</string>
+    <string name="notification_channel_name">下载完成</string>
+    <!-- Action Buttons -->
+    <string name="open">打开</string>
+    <string name="reset">重置</string>
+    <string name="copy">复制</string>
+    <!-- Settings / About -->
+    <string name="title_activity_about">关于麒麟传送安卓版</string>
+    <string name="license">许可证</string>
+    <string name="pref_category_settings">设置</string>
+    <string name="source">源码</string>
+    <string name="source_summary">在 GitHub 上查看源代码</string>
+    <string name="components">开源组件</string>
+    <string name="logs">调试日志</string>
+    <string name="components_summary">点击查看</string>
+    <string name="crowdin">本地化</string>
+    <string name="crowdin_summary">帮助将 <b>麒麟传送 安卓版</b> 翻译成您最喜欢的语言</string>
+    <string name="support_us">支持麒麟传送</string>
+    <string name="support_us_summary">你好，查看您如何能支持麒麟传送</string>
+    <string name="twitter">常见问题</string>
+    <string name="twitter_summary">关于<b>麒麟传送 安卓版</b>的常见问题</string>
+    <string name="version">版本</string>
+    <string name="pref_device_name_title">设备名称</string>
+    <string name="pref_device_name_summary">自定义设备名称</string>
+    <string name="keep_on_summary">(推荐) 若遇到熄屏时传输中断的问题，请启用该项</string>
+    <string name="keep_on_title">传输时保持屏幕开启</string>
+    <string name="floating_text_selection_title">浮动文字选择</string>
+    <string name="floating_text_selection_summary">使用其他APP选中文本时，显示“使用麒麟传送发送”选项</string>
+    <string name="floating_text_selection_activity_label">使用麒麟传送发送</string>
+    <string name="settings_theme_title">主题</string>
+    <string-array name="darkmode_entries">
+        <item>跟随系统</item>
+        <item>浅色</item>
+        <item>深色</item>
+    </string-array>
+    <string name="baseurl_title">主机 URL</string>
+    <string name="baseurl_no_snapdrop_instance">这似乎不是一个qilindrop实例</string>
+    <string name="baseurl_check_instance_failed">验证qilindrop实例失败</string>
+    <string name="save_location">保存位置</string>
+    <!-- File sharing -->
+    <string name="intent_file">已选择一个要共享的文件</string>
+    <string name="intent_files">已选择多个要共享的文件</string>
+    <string name="intent_content">已选择要共享的内容</string>
+    <string name="error_filechooser">无法打开文件选择程序</string>
+    <string name="error_network">请确保您已经连接到WiFi网络</string>
+    <string name="ignore_error_network">忽略并继续</string>
+    <string name="error_not_reachable_title">啊哦，很抱歉！</string>
+    <string name="error_not_reachable">无法连接到 麒麟传送 服务器。 \n\n如果您的网络连接正常，但是仍然出现这种情况，则可能是我们服务器目前遇到了问题。 我们知道这可能令人沮丧，但请不要在 Google Play 上留下差评。\n\n此应用完全没有广告，所以我们不会用它赚任何钱。 它只是一个公益项目，但我们正在努力使它尽快恢复。</string>
+    <!-- Website Localization -->
+    <string name="website_no_peers_info">在其他设备的浏览器打开qilindrop.cn以发送文件</string>
+    <string name="website_instruction">点击发送文件或长按发送消息</string>
+    <string name="website_file_received">文件已接收</string>
+    <string name="website_file_ask_before_download">保存文件前总是询问</string>
+    <string name="website_file_download">保存</string>
+    <string name="website_footer_discovery">点击二维码，不同内网的设备可通过输入相同暗号互相发现</string>
+    <string name="website_footer_known_as">您的设备昵称为 %s</string>
+    <string name="website_about_subheading">通过最简单的方式在跨设备之间传输文件</string>
+</resources>
